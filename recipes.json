@@ -1,0 +1,734 @@
+{
+  "databaseName": "cookwithme",
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Špageti karbonara",
+      "imageUrl": "https://i.ytimg.com/vi/vCyQQ9kIBh4/maxresdefault.jpg",
+      "ingredients": [
+        {
+          "name": "špageti",
+          "quantity": "200g"
+        },
+        {
+          "name": "jaja",
+          "quantity": "2"
+        },
+        {
+          "name": "slanina",
+          "quantity": "100g"
+        },
+        {
+          "name": "parmezan sir",
+          "quantity": "50g"
+        },
+        {
+          "name": "crni biber",
+          "quantity": "po ukusu"
+        }
+      ],
+      "method": [
+        "Skuvajte špagete prema uputstvu na pakovanju.",
+        "Ispržite slaninu dok ne postane hrskava.",
+        "Umutite jaja sa parmezan sirom.",
+        "Ocedite špagete i pomešajte sa smesom od jaja.",
+        "Dodajte hrskavu slaninu i crni biber.",
+        "Poslužite toplo."
+      ],
+      "category": "Italijanska",
+      "allergens": ["Gluten", "Laktoza"]
+    },
+    {
+      "id": 2,
+      "title": "Piletina tikka masala",
+      "imageUrl": "https://kuhinja.in.rs/wp-content/uploads/2023/02/Piletina-tikka-masala.jpg",
+      "ingredients": [
+        {
+          "name": "pileći file",
+          "quantity": "500g"
+        },
+        {
+          "name": "jogurt",
+          "quantity": "200ml"
+        },
+        {
+          "name": "paradajz",
+          "quantity": "400g"
+        },
+        {
+          "name": "crni luk",
+          "quantity": "1"
+        },
+        {
+          "name": "beli luk",
+          "quantity": "3 čena"
+        },
+        {
+          "name": "đumbir",
+          "quantity": "1 komad"
+        },
+        {
+          "name": "začini",
+          "quantity": "po ukusu"
+        }
+      ],
+      "method": [
+        "Marinirajte piletinu u jogurtu i začinima.",
+        "Grilujte ili pecite dok ne bude skuvana.",
+        "Napravite paradajz sos sa crnim lukom, belim lukom i đumbirom.",
+        "Dodajte kuvanu piletinu u sos.",
+        "Poslužite sa pirinčem ili naan hlebom."
+      ],
+      "category": "Indijska",
+      "allergens": []
+    },
+    {
+      "id": 3,
+      "title": "Cezar salata",
+      "imageUrl": "https://glossy.espreso.co.rs/data/images/2021/08/03/15/325706_cezarsalatashutterstock-1078415420_ff.jpg",
+      "ingredients": [
+        {
+          "name": "rimljanska salata",
+          "quantity": "1 glavica"
+        },
+        {
+          "name": "krutoni",
+          "quantity": "1 šolja"
+        },
+        {
+          "name": "parmezan sir",
+          "quantity": "50g"
+        },
+        {
+          "name": "Cezar preliv",
+          "quantity": "po ukusu"
+        }
+      ],
+      "method": [
+        "Iscepkajte salatu na komade veličine zalogaja.",
+        "Pomešajte sa krutonima, rendanim parmezan sirom i Cezar prelivom.",
+        "Poslužite odmah."
+      ],
+      "category": "Salate",
+      "allergens": ["Gluten", "Laktoza"]
+    },
+    {
+      "id": 4,
+      "title": "Pica Margarita",
+      "imageUrl": "https://primer.com/pica_margarita.jpg",
+      "ingredients": [
+        {
+          "name": "testo za picu",
+          "quantity": "300g"
+        },
+        {
+          "name": "pelat od paradajza",
+          "quantity": "200g"
+        },
+        {
+          "name": "mozzarella sir",
+          "quantity": "200g"
+        },
+        {
+          "name": "parmezan sir",
+          "quantity": "50g"
+        },
+        {
+          "name": "masline",
+          "quantity": "na ukus"
+        },
+        {
+          "name": "origano",
+          "quantity": "na ukus"
+        }
+      ],
+      "method": [
+        "Razviti testo na plehu za picu.",
+        "Premazati testo pelatom od paradajza.",
+        "Posuti rendanim parmezanom.",
+        "Dodati komade mozzarelle i masline.",
+        "Pospiti origanom.",
+        "Peći u zagrejanoj rerni dok ne postane zlatno smeđa."
+      ],
+      "category": "Italijanska",
+      "allergens": ["Gluten", "Laktoza"]
+    },
+    {
+      "id": 5,
+      "title": "Musaka od Patlidžana",
+      "imageUrl": "https://podravkaiovariations.blob.core.windows.net/97aafa88-638a-11eb-bdc3-0242ac120040/v/f2b1f6a6-64bc-11eb-b6c2-0242ac130010/1024x768-f2b21802-64bc-11eb-a115-0242ac130010.webp",
+      "ingredients": [
+        {
+          "name": "patlidžan",
+          "quantity": "3 komada"
+        },
+        {
+          "name": "meso (jagnjeće ili mleveno)",
+          "quantity": "500g"
+        },
+        {
+          "name": "krompir",
+          "quantity": "500g"
+        },
+        {
+          "name": "paradajz sos",
+          "quantity": "200ml"
+        },
+        {
+          "name": "sir",
+          "quantity": "150g"
+        },
+        {
+          "name": "beli luk",
+          "quantity": "3 čena"
+        },
+        {
+          "name": "biber",
+          "quantity": "na ukus"
+        },
+        {
+          "name": "so",
+          "quantity": "na ukus"
+        }
+      ],
+      "method": [
+        "Iseckati patlidžan na tanke kolutove i posoliti.",
+        "Oprati i iseći krompir na kolutove.",
+        "Pržiti meso sa belim lukom.",
+        "Redjati slojeve patlidžana, krompira, mesa i sira u pleh.",
+        "Preliti paradajz sosom.",
+        "Peći u rerni dok ne bude zapečeno i zlatno smeđe."
+      ],
+      "category": "Grčka",
+      "allergens": ["Gluten", "Laktoza"]
+    },
+    {
+      "id": 6,
+      "title": "Francuska Supa od Luk",
+      "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiaWUdKcfCpJXeklTXawfiYyR7_EIOS95Xm9xV1Wm6VB-PRTatkC72CWVDxGXQlJYPHO81H9oARyFc3rXLZb3_-oNPy8U9mnajSeRuwzIqturdAJHbrFWG4zNpE--DKQk2xD_5IMRmhm-PyrU8dhVKc5yUSMfDf9TC4GbXDJ_v3U9Apv5b9nT9SFGPFXw=s16000",
+      "ingredients": [
+        {
+          "name": "crni luk",
+          "quantity": "6 glavica"
+        },
+        {
+          "name": "beli luk",
+          "quantity": "3 čena"
+        },
+        {
+          "name": "maslac",
+          "quantity": "50g"
+        },
+        {
+          "name": "brašno",
+          "quantity": "3 kašike"
+        },
+        {
+          "name": "pileća supa",
+          "quantity": "1 litar"
+        },
+        {
+          "name": "baget hleb",
+          "quantity": "1"
+        },
+        {
+          "name": "parmezan sir",
+          "quantity": "50g"
+        },
+        {
+          "name": "sveži peršun",
+          "quantity": "za posipanje"
+        }
+      ],
+      "method": [
+        "Iseckati luk i pržiti na maslacu dok ne omekša.",
+        "Dodati brašno i mešati.",
+        "Doliti pileću supu i kuvati dok ne provri.",
+        "Narezati baget na kriške i posuti parmezanom.",
+        "Peći u rerni dok ne postane hrskavo.",
+        "Poslužiti supu toplo sa hrskavim bagetom i svežim peršunom."
+      ],
+      "category": "Francuska",
+      "allergens": ["Gluten", "Laktoza"]
+    },
+    {
+      "id": 7,
+      "title": "Piletina sa Karijem",
+      "imageUrl": "https://www.hranaizdravlje.com/sites/default/files/styles/post_large/public/post_image/2020-10/piletina-sa-karijem-01.jpg?itok=kZC4HCd6",
+      "ingredients": [
+        {
+          "name": "pileće grudi",
+          "quantity": "500g"
+        },
+        {
+          "name": "kari prah",
+          "quantity": "3 kašike"
+        },
+        {
+          "name": "kokosovo mleko",
+          "quantity": "400ml"
+        },
+        {
+          "name": "crveni luk",
+          "quantity": "1 komad"
+        },
+        {
+          "name": "beli luk",
+          "quantity": "3 čena"
+        },
+        {
+          "name": "đumbir",
+          "quantity": "1 komad (veličine palca)"
+        },
+        {
+          "name": "šargarepa",
+          "quantity": "2 komada"
+        },
+        {
+          "name": "krompir",
+          "quantity": "2 komada"
+        },
+        {
+          "name": "soja sos",
+          "quantity": "2 kašike"
+        },
+        {
+          "name": "ulje",
+          "quantity": "2 kašike"
+        },
+        {
+          "name": "biber",
+          "quantity": "na ukus"
+        }
+      ],
+      "method": [
+        "Iseckati pileće grudi na kocke.",
+        "Pržiti crveni luk, beli luk i đumbir na ulju.",
+        "Dodati kari prah i pržiti još minut.",
+        "Dodati pileće komade i pržiti dok ne porumene.",
+        "Dodati iseckane šargarepe i krompire.",
+        "Doliti kokosovo mleko i soja sos.",
+        "Kuvati dok povrće ne omekša i piletina bude kuvana.",
+        "Poslužiti toplo uz kuvani pirinač."
+      ],
+      "category": "Indijska",
+      "allergens": []
+    },
+    {
+      "id": 8,
+      "title": "Meksikanski Fajitas",
+      "imageUrl": "https://hypelist.rs/wp-content/uploads/2023/12/piletina-na-meksicki-nacin.jpg",
+      "ingredients": [
+        {
+          "name": "pileće grudi",
+          "quantity": "500g"
+        },
+        {
+          "name": "paprika",
+          "quantity": "2 komada"
+        },
+        {
+          "name": "crveni luk",
+          "quantity": "1 komad"
+        },
+        {
+          "name": "maslinovo ulje",
+          "quantity": "2 kašike"
+        },
+        {
+          "name": "tortilje",
+          "quantity": "8 komada"
+        },
+        {
+          "name": "guacamole",
+          "quantity": "za serviranje"
+        },
+        {
+          "name": "sour cream",
+          "quantity": "za serviranje"
+        },
+        {
+          "name": "čili sos",
+          "quantity": "za serviranje"
+        },
+        {
+          "name": "sir",
+          "quantity": "100g"
+        }
+      ],
+      "method": [
+        "Iseckati pileće grudi, papriku i crveni luk na trakice.",
+        "Pržiti pileće grudi na maslinovom ulju dok ne budu pečene.",
+        "Dodati iseckane paprike i luk i pržiti još nekoliko minuta.",
+        "Poslužiti sa tortiljama, guacamoleom, sour creamom, čili sosom i sirom."
+      ],
+      "category": "Meksička",
+      "allergens": ["Gluten", "Laktoza"]
+    },
+    {
+      "id": 9,
+      "title": "Grčka Salata",
+      "imageUrl": "https://www.salas011.rs/wp-content/uploads/2021/04/web-Gr%C4%8Dka-salata-porcija-Sala%C5%A1011-ketering.jpg",
+      "ingredients": [
+        {
+          "name": "paradajz",
+          "quantity": "3 komada"
+        },
+        {
+          "name": "krastavac",
+          "quantity": "1 komad"
+        },
+        {
+          "name": "crni maslinke",
+          "quantity": "100g"
+        },
+        {
+          "name": "feta sir",
+          "quantity": "150g"
+        },
+        {
+          "name": "crveni luk",
+          "quantity": "1 komad"
+        },
+        {
+          "name": "maslinovo ulje",
+          "quantity": "2 kašike"
+        },
+        {
+          "name": "sok od limuna",
+          "quantity": "2 kašike"
+        },
+        {
+          "name": "origano",
+          "quantity": "1 kašičica"
+        },
+        {
+          "name": "so",
+          "quantity": "na ukus"
+        },
+        {
+          "name": "biber",
+          "quantity": "na ukus"
+        }
+      ],
+      "method": [
+        "Iseckati paradajz, krastavac i crni luk na kockice.",
+        "Dodati crne masline i izmrvljeni feta sir.",
+        "Prelijti maslinovim uljem i sokom od limuna.",
+        "Posuti origanom, solju i biberom.",
+        "Promešati i ostaviti da se ohladi pre serviranja."
+      ],
+      "category": "Salate",
+      "allergens": ["Laktoza"]
+    },
+    {
+      "id": 10,
+      "title": "Sushi Rolnice",
+      "imageUrl": "https://www.restoranibeograd.com/storage/news/interior/391/susi_maki_rolnice.jpg",
+      "ingredients": [
+        {
+          "name": "sushi pirinač",
+          "quantity": "1 šolja"
+        },
+        {
+          "name": "nori alge",
+          "quantity": "5 listova"
+        },
+        {
+          "name": "riba (losos ili tunjevina)",
+          "quantity": "200g"
+        },
+        {
+          "name": "krastavac",
+          "quantity": "1 komad"
+        },
+        {
+          "name": "avokado",
+          "quantity": "1 komad"
+        },
+        {
+          "name": "morski plodovi (kamčatka, rakovi)",
+          "quantity": "200g"
+        },
+        {
+          "name": "jabuka",
+          "quantity": "1 komad"
+        },
+        {
+          "name": "sirće od pirinča",
+          "quantity": "2 kašike"
+        },
+        {
+          "name": "soja sos",
+          "quantity": "za posluživanje"
+        },
+        {
+          "name": "biber",
+          "quantity": "za posluživanje"
+        }
+      ],
+      "method": [
+        "Sushi pirinač skuvati i ostaviti da se ohladi.",
+        "Nori alge staviti na podlogu za rolanje.",
+        "Razmazati sloj pirinča preko nori algi.",
+        "Dodati kriške ribe, krastavca, avokada, morske plodove i jabuke.",
+        "Uviti nori algu u rolnicu.",
+        "Iseći rolnice i poslužiti sa sirćetom od pirinča, soja sosom i biberom."
+      ],
+      "category": "Japanska",
+      "allergens": ["Riba"]
+    },
+    {
+      "id": 11,
+      "title": "Spanać Pita",
+      "imageUrl": "https://www.recepti.com/img/recipe/40216-pita-sa-spanacem-i-sirom_zoom.jpg",
+      "ingredients": [
+        {
+          "name": "spanać",
+          "quantity": "500g"
+        },
+        {
+          "name": "sir",
+          "quantity": "200g"
+        },
+        {
+          "name": "jaja",
+          "quantity": "4 komada"
+        },
+        {
+          "name": "kore za pitu",
+          "quantity": "500g"
+        },
+        {
+          "name": "maslac",
+          "quantity": "100g"
+        }
+      ],
+      "method": [
+        "Spanać oprati i iseckati.",
+        "Izmutiti jaja.",
+        "Promešati spanać, sir i jaja.",
+        "Redjati kore za pitu u pleh, premazati maslacem između svake.",
+        "Staviti fil od spanaća i sira.",
+        "Peći u rerni dok ne bude zlatno smeđa."
+      ],
+      "category": "Grčka",
+      "allergens": ["Gluten", "Laktoza"]
+    },
+    {
+      "id": 12,
+      "title": "Ćufte u Paradajz Sosu",
+      "imageUrl": "https://fagor.rs/wp-content/uploads/2021/09/cufte-u-paradajz-sosu--1200x900.jpg",
+      "ingredients": [
+        {
+          "name": "mleveno meso (junetina ili svinjetina)",
+          "quantity": "500g"
+        },
+        {
+          "name": "crni luk",
+          "quantity": "1 komad"
+        },
+        {
+          "name": "beli luk",
+          "quantity": "3 čena"
+        },
+        {
+          "name": "hleb",
+          "quantity": "2 kriške"
+        },
+        {
+          "name": "mleko",
+          "quantity": "1/4 šolje"
+        },
+        {
+          "name": "jaja",
+          "quantity": "2 komada"
+        },
+        {
+          "name": "paradajz sos",
+          "quantity": "400g"
+        },
+        {
+          "name": "šećer",
+          "quantity": "1 kašika"
+        },
+        {
+          "name": "so",
+          "quantity": "na ukus"
+        },
+        {
+          "name": "biber",
+          "quantity": "na ukus"
+        }
+      ],
+      "method": [
+        "Namazati hleb mlekom i ostaviti da omekša.",
+        "Iseckati crni i beli luk i propržiti na ulju.",
+        "Umutiti jaja.",
+        "Pomešati mleveno meso, iseckani hleb, prženi luk i jaja.",
+        "Formirati ćufte i pržiti ih sa svih strana dok ne budu pečene.",
+        "Dodati paradajz sos, šećer, so i biber.",
+        "Kuvati dok sos ne bude gust."
+      ],
+      "category": "Srpska",
+      "allergens": ["Gluten", "Laktoza"]
+    },
+    {
+      "id": 13,
+      "title": "Pasta Alfredo",
+      "imageUrl": "https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_1:1/k%2FPhoto%2FRecipes%2F2023-06-chicken-alfredo-pasta-reshoot%2Fchicken-alfredo-pasta-2-vertical",
+      "ingredients": [
+        {
+          "name": "špageti",
+          "quantity": "300g"
+        },
+        {
+          "name": "maslac",
+          "quantity": "100g"
+        },
+        {
+          "name": "slatka pavlaka",
+          "quantity": "200ml"
+        },
+        {
+          "name": "parmezan sir",
+          "quantity": "100g"
+        },
+        {
+          "name": "beli luk",
+          "quantity": "3 čena"
+        },
+        {
+          "name": "biber",
+          "quantity": "na ukus"
+        },
+        {
+          "name": "so",
+          "quantity": "na ukus"
+        },
+        {
+          "name": "peršun",
+          "quantity": "za posipanje"
+        }
+      ],
+      "method": [
+        "Skuvati špagete prema uputstvu na pakovanju.",
+        "Rastopiti maslac u tiganju.",
+        "Dodati iseckani beli luk i pržiti dok ne omekša.",
+        "Dodati slatku pavlaku i kuvati dok se sos ne zgusne.",
+        "Dodati rendani parmezan sir i mešati dok se ne otopi.",
+        "Dodati kuvane špagete u sos i promešati.",
+        "Poslužiti toplo posuto svežim peršunom."
+      ],
+      "category": "Italijanska",
+      "allergens": ["Gluten", "Laktoza"]
+    },
+    {
+      "id": 14,
+      "title": "Biftek sa Pireom od Krompira",
+      "imageUrl": "https://static.alideda.com/wp-content/uploads/2021/04/Taljata-od-bifteka-sa-pireom-od-krompira-tartufa-i-rukole-1.jpg",
+      "ingredients": [
+        {
+          "name": "biftek",
+          "quantity": "2 komada"
+        },
+        {
+          "name": "krompir",
+          "quantity": "500g"
+        },
+        {
+          "name": "maslac",
+          "quantity": "100g"
+        },
+        {
+          "name": "mleko",
+          "quantity": "100ml"
+        },
+        {
+          "name": "so",
+          "quantity": "na ukus"
+        },
+        {
+          "name": "biber",
+          "quantity": "na ukus"
+        },
+        {
+          "name": "maslinovo ulje",
+          "quantity": "za prženje"
+        },
+        {
+          "name": "ružmarin",
+          "quantity": "za posipanje"
+        }
+      ],
+      "method": [
+        "Očistiti krompir i iseći na kocke.",
+        "Kuvati krompir u slanoj vodi dok ne omekša.",
+        "Ocediti krompir i izgnječiti ga.",
+        "Dodati maslac i mleko, i mešati dok ne postane glatko.",
+        "Posoliti i pobiberiti po ukusu.",
+        "Ugrejati maslinovo ulje u tiganju.",
+        "Začiniti biftek sa solju, biberom i ružmarinom.",
+        "Pržiti biftek na maslinovom ulju dok ne dobije željenu teksturu.",
+        "Poslužiti biftek sa pireom od krompira."
+      ],
+      "category": "Mediterranska",
+      "allergens": ["Laktoza"]
+    },
+    {
+      "id": 15,
+      "title": "Tikvice Farcirane Mesarom",
+      "imageUrl": "https://stil.kurir.rs/data/images/2022/07/21/11/287447_tikivce_share.jpg",
+      "ingredients": [
+        {
+          "name": "tikvice",
+          "quantity": "4 komada"
+        },
+        {
+          "name": "meso (mleveno junetina ili svinjetina)",
+          "quantity": "500g"
+        },
+        {
+          "name": "crni luk",
+          "quantity": "1 komad"
+        },
+        {
+          "name": "beli luk",
+          "quantity": "3 čena"
+        },
+        {
+          "name": "paradajz sos",
+          "quantity": "200ml"
+        },
+        {
+          "name": "riža",
+          "quantity": "1 šolja"
+        },
+        {
+          "name": "maslinovo ulje",
+          "quantity": "2 kašike"
+        },
+        {
+          "name": "biber",
+          "quantity": "na ukus"
+        },
+        {
+          "name": "so",
+          "quantity": "na ukus"
+        }
+      ],
+      "method": [
+        "Operite tikvice i odsecite im vrhove.",
+        "Izvadite sredinu tikvica.",
+        "Propržite crni i beli luk na maslinovom ulju.",
+        "Dodajte mleveno meso i dinstajte dok ne postane smeđe.",
+        "Dodajte pirinač i paradajz sos.",
+        "Filujte tikvice smesom od mesa.",
+        "Pecite u rerni dok tikvice ne omekšaju.",
+        "Poslužite toplo."
+      ],
+      "category": "Mediterranska",
+      "allergens": []
+    }
+  ]
+}

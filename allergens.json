@@ -1,0 +1,45 @@
+{
+  "databaseName": "cookwithme",
+  "allergens": [
+    {
+      "id": 1,
+      "name": "Gluten"
+    },
+    {
+      "id": 2,
+      "name": "Laktoza"
+    },
+    {
+      "id": 3,
+      "name": "Orašasti plodovi"
+    },
+    {
+      "id": 4,
+      "name": "Školjke"
+    },
+    {
+      "id": 5,
+      "name": "Soja"
+    },
+    {
+      "id": 6,
+      "name": "Jaja"
+    },
+    {
+      "id": 7,
+      "name": "Riba"
+    },
+    {
+      "id": 8,
+      "name": "Susam"
+    },
+    {
+      "id": 9,
+      "name": "Sulfiti"
+    },
+    {
+      "id": 10,
+      "name": "Pšenica"
+    }
+  ]
+}

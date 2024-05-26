@@ -1,0 +1,85 @@
+{
+  "databaseName": "cookwithme",
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Petar",
+      "lastName": "Petrović",
+      "email": "petar.petrovic@example.com",
+      "password": "sifra123",
+      "allergens": ["Laktoza", "Orašasti plodovi"]
+    },
+    {
+      "id": 2,
+      "firstName": "Ana",
+      "lastName": "Anić",
+      "email": "ana.anic@example.com",
+      "password": "sifra456",
+      "allergens": ["Gluten", "Jaja"]
+    },
+    {
+      "id": 3,
+      "firstName": "Marko",
+      "lastName": "Marković",
+      "email": "marko.markovic@example.com",
+      "password": "sifra789",
+      "allergens": ["Školjke", "Riba"]
+    },
+    {
+      "id": 4,
+      "firstName": "Ivana",
+      "lastName": "Ivić",
+      "email": "ivana.ivic@example.com",
+      "password": "sifra101",
+      "allergens": ["Soja", "Susam"]
+    },
+    {
+      "id": 5,
+      "firstName": "Jovan",
+      "lastName": "Jovanović",
+      "email": "jovan.jovanovic@example.com",
+      "password": "sifra102",
+      "allergens": ["Sulfiti", "Pšenica"]
+    },
+    {
+      "id": 6,
+      "firstName": "Miloš",
+      "lastName": "Milošević",
+      "email": "milos.milosevic@example.com",
+      "password": "sifra103",
+      "allergens": ["Gluten", "Laktoza"]
+    },
+    {
+      "id": 7,
+      "firstName": "Jelena",
+      "lastName": "Jelić",
+      "email": "jelena.jelic@example.com",
+      "password": "sifra104",
+      "allergens": ["Jaja", "Riba"]
+    },
+    {
+      "id": 8,
+      "firstName": "Nikola",
+      "lastName": "Nikolić",
+      "email": "nikola.nikolic@example.com",
+      "password": "sifra105",
+      "allergens": ["Orašasti plodovi", "Soja"]
+    },
+    {
+      "id": 9,
+      "firstName": "Mira",
+      "lastName": "Mirić",
+      "email": "mira.miric@example.com",
+      "password": "sifra106",
+      "allergens": ["Susam", "Pšenica"]
+    },
+    {
+      "id": 10,
+      "firstName": "Vuk",
+      "lastName": "Vuković",
+      "email": "vuk.vukovic@example.com",
+      "password": "sifra107",
+      "allergens": ["Sulfiti", "Školjke"]
+    }
+  ]
+}

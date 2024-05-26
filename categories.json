@@ -1,0 +1,55 @@
+{
+  "databaseName": "cookwithme",
+  "categories": [
+    {
+      "category": "Pasta",
+      "imageUrl": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/05/Baked-Feta-Pasta-4_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1615916524567.jpeg",
+      "primaryKey": 1
+    },
+    {
+      "category": "Salate",
+      "imageUrl": "https://www.strongnature.rs/uploads/news/images/3-obrok-salate-koje-su-idealne-za-dorucak-20.webp",
+      "primaryKey": 2
+    },
+    {
+      "category": "Deserti",
+      "imageUrl": "https://stil.kurir.rs/data/images/2015/04/11/14/56900_uskrsnji-mafini_ls.jpg",
+      "primaryKey": 3
+    },
+    {
+      "category": "Grilovana jela",
+      "imageUrl": "https://fagor.rs/wp-content/uploads/2021/09/Caribbean-Grilled-Chicken-Recipe-.jpg",
+      "primaryKey": 4
+    },
+    {
+      "category": "Supe",
+      "imageUrl": "https://www.kuvarancije.com/images/recepti/supe/2021/supa-od-koke-5.jpg",
+      "primaryKey": 5
+    },
+    {
+      "category": "Riba i morski plodovi",
+      "imageUrl": "https://eklinika.telegraf.rs/wp-content/uploads/2021/07/27/shutterstock_295473359.jpg",
+      "primaryKey": 6
+    },
+    {
+      "category": "Italijanska",
+      "imageUrl": "https://i0.wp.com/s2.travelask.ru/system/images/files/000/146/239/wysiwyg/bruschette-hd.jpg",
+      "primaryKey": 7
+    },
+    {
+      "category": "Meksička",
+      "imageUrl": "https://www.ponudadana.hr/blogs/27/315a0b_2789fb_f8439e_mex_2___tekst_1.jpg",
+      "primaryKey": 8
+    },
+    {
+      "category": "Japanska",
+      "imageUrl": "https://www.travelmagazine.rs/wp-content/uploads/2019/11/sushi-354628_640.jpg",
+      "primaryKey": 9
+    },
+    {
+      "category": "Srpska",
+      "imageUrl": "https://stil.kurir.rs/data/images/2022/11/11/19/303487_shutterstock-2090767765_ls.jpg",
+      "primaryKey": 10
+    }
+  ]
+}
