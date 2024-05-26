@@ -1,6 +1,6 @@
 {
   "databaseName": "cookwithme",
-  "recipes": [
+  "recipe": [
     {
       "id": 1,
       "title": "Špageti karbonara",
@@ -36,7 +36,7 @@
         "Poslužite toplo."
       ],
       "category": "Italijanska",
-      "allergens": ["Gluten", "Laktoza"]
+      "allergen": ["Gluten", "Laktoza"]
     },
     {
       "id": 2,
@@ -80,7 +80,7 @@
         "Poslužite sa pirinčem ili naan hlebom."
       ],
       "category": "Indijska",
-      "allergens": []
+      "allergen": []
     },
     {
       "id": 3,
@@ -110,7 +110,7 @@
         "Poslužite odmah."
       ],
       "category": "Salate",
-      "allergens": ["Gluten", "Laktoza"]
+      "allergen": ["Gluten", "Laktoza"]
     },
     {
       "id": 4,
@@ -151,7 +151,7 @@
         "Peći u zagrejanoj rerni dok ne postane zlatno smeđa."
       ],
       "category": "Italijanska",
-      "allergens": ["Gluten", "Laktoza"]
+      "allergen": ["Gluten", "Laktoza"]
     },
     {
       "id": 5,
@@ -200,7 +200,7 @@
         "Peći u rerni dok ne bude zapečeno i zlatno smeđe."
       ],
       "category": "Grčka",
-      "allergens": ["Gluten", "Laktoza"]
+      "allergen": ["Gluten", "Laktoza"]
     },
     {
       "id": 6,
@@ -249,7 +249,7 @@
         "Poslužiti supu toplo sa hrskavim bagetom i svežim peršunom."
       ],
       "category": "Francuska",
-      "allergens": ["Gluten", "Laktoza"]
+      "allergen": ["Gluten", "Laktoza"]
     },
     {
       "id": 7,
@@ -312,7 +312,7 @@
         "Poslužiti toplo uz kuvani pirinač."
       ],
       "category": "Indijska",
-      "allergens": []
+      "allergen": []
     },
     {
       "id": 8,
@@ -363,7 +363,7 @@
         "Poslužiti sa tortiljama, guacamoleom, sour creamom, čili sosom i sirom."
       ],
       "category": "Meksička",
-      "allergens": ["Gluten", "Laktoza"]
+      "allergen": ["Gluten", "Laktoza"]
     },
     {
       "id": 9,
@@ -419,7 +419,7 @@
         "Promešati i ostaviti da se ohladi pre serviranja."
       ],
       "category": "Salate",
-      "allergens": ["Laktoza"]
+      "allergen": ["Laktoza"]
     },
     {
       "id": 10,
@@ -476,7 +476,7 @@
         "Iseći rolnice i poslužiti sa sirćetom od pirinča, soja sosom i biberom."
       ],
       "category": "Japanska",
-      "allergens": ["Riba"]
+      "allergen": ["Riba"]
     },
     {
       "id": 11,
@@ -513,7 +513,7 @@
         "Peći u rerni dok ne bude zlatno smeđa."
       ],
       "category": "Grčka",
-      "allergens": ["Gluten", "Laktoza"]
+      "allergen": ["Gluten", "Laktoza"]
     },
     {
       "id": 12,
@@ -571,7 +571,7 @@
         "Kuvati dok sos ne bude gust."
       ],
       "category": "Srpska",
-      "allergens": ["Gluten", "Laktoza"]
+      "allergen": ["Gluten", "Laktoza"]
     },
     {
       "id": 13,
@@ -621,7 +621,7 @@
         "Poslužiti toplo posuto svežim peršunom."
       ],
       "category": "Italijanska",
-      "allergens": ["Gluten", "Laktoza"]
+      "allergen": ["Gluten", "Laktoza"]
     },
     {
       "id": 14,
@@ -673,7 +673,7 @@
         "Poslužiti biftek sa pireom od krompira."
       ],
       "category": "Mediterranska",
-      "allergens": ["Laktoza"]
+      "allergen": ["Laktoza"]
     },
     {
       "id": 15,
@@ -728,7 +728,7 @@
         "Poslužite toplo."
       ],
       "category": "Mediterranska",
-      "allergens": []
+      "allergen": []
     }
   ]
 }
