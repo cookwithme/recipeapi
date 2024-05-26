@@ -1,6 +1,6 @@
 {
   "databaseName": "cookwithme",
-  "allergens": [
+  "allergen": [
     {
       "id": 1,
       "name": "Gluten"
