@@ -7,7 +7,7 @@
       "lastName": "Petrović",
       "email": "petar.petrovic@example.com",
       "password": "sifra123",
-      "allergens": ["Laktoza", "Orašasti plodovi"]
+      "allergen": ["Laktoza", "Orašasti plodovi"]
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
       "lastName": "Anić",
       "email": "ana.anic@example.com",
       "password": "sifra456",
-      "allergens": ["Gluten", "Jaja"]
+      "allergen": ["Gluten", "Jaja"]
     },
     {
       "id": 3,
@@ -23,7 +23,7 @@
       "lastName": "Marković",
       "email": "marko.markovic@example.com",
       "password": "sifra789",
-      "allergens": ["Školjke", "Riba"]
+      "allergen": ["Školjke", "Riba"]
     },
     {
       "id": 4,
@@ -31,7 +31,7 @@
       "lastName": "Ivić",
       "email": "ivana.ivic@example.com",
       "password": "sifra101",
-      "allergens": ["Soja", "Susam"]
+      "allergen": ["Soja", "Susam"]
     },
     {
       "id": 5,
@@ -39,7 +39,7 @@
       "lastName": "Jovanović",
       "email": "jovan.jovanovic@example.com",
       "password": "sifra102",
-      "allergens": ["Sulfiti", "Pšenica"]
+      "allergen": ["Sulfiti", "Pšenica"]
     },
     {
       "id": 6,
@@ -47,7 +47,7 @@
       "lastName": "Milošević",
       "email": "milos.milosevic@example.com",
       "password": "sifra103",
-      "allergens": ["Gluten", "Laktoza"]
+      "allergen": ["Gluten", "Laktoza"]
     },
     {
       "id": 7,
@@ -55,7 +55,7 @@
       "lastName": "Jelić",
       "email": "jelena.jelic@example.com",
       "password": "sifra104",
-      "allergens": ["Jaja", "Riba"]
+      "allergen": ["Jaja", "Riba"]
     },
     {
       "id": 8,
@@ -63,7 +63,7 @@
       "lastName": "Nikolić",
       "email": "nikola.nikolic@example.com",
       "password": "sifra105",
-      "allergens": ["Orašasti plodovi", "Soja"]
+      "allergen": ["Orašasti plodovi", "Soja"]
     },
     {
       "id": 9,
@@ -71,7 +71,7 @@
       "lastName": "Mirić",
       "email": "mira.miric@example.com",
       "password": "sifra106",
-      "allergens": ["Susam", "Pšenica"]
+      "allergen": ["Susam", "Pšenica"]
     },
     {
       "id": 10,
@@ -79,7 +79,7 @@
       "lastName": "Vuković",
       "email": "vuk.vukovic@example.com",
       "password": "sifra107",
-      "allergens": ["Sulfiti", "Školjke"]
+      "allergen": ["Sulfiti", "Školjke"]
     }
   ]
 }
