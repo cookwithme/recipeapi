@@ -1,6 +1,6 @@
 {
   "databaseName": "cookwithme",
-  "users": [
+  "user": [
     {
       "id": 1,
       "firstName": "Petar",
