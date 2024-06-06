@@ -1,55 +1,34 @@
-{
-  "databaseName": "cookwithme",
-  "category": [
+[
     {
-      "category": "Pasta",
-      "imageUrl": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2021/02/05/Baked-Feta-Pasta-4_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1615916524567.jpeg",
-      "primaryKey": 1
+        "category": "vegetarian",
+        "imageUrl":"https://images.unsplash.com/photo-1598449426314-8b02525e8733?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1026&q=80"
     },
     {
-      "category": "Salate",
-      "imageUrl": "https://www.strongnature.rs/uploads/news/images/3-obrok-salate-koje-su-idealne-za-dorucak-20.webp",
-      "primaryKey": 2
+        "category": "snacks",
+        "imageUrl": "https://images.unsplash.com/photo-1620041630998-e147e143468c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
     },
     {
-      "category": "Deserti",
-      "imageUrl": "https://stil.kurir.rs/data/images/2015/04/11/14/56900_uskrsnji-mafini_ls.jpg",
-      "primaryKey": 3
+        "category": "chicken",
+        "imageUrl":"https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1013&q=80"
     },
     {
-      "category": "Grilovana jela",
-      "imageUrl": "https://fagor.rs/wp-content/uploads/2021/09/Caribbean-Grilled-Chicken-Recipe-.jpg",
-      "primaryKey": 4
+        "category": "rice",
+        "imageUrl": "https://images.unsplash.com/photo-1596560548464-f010549b84d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     },
     {
-      "category": "Supe",
-      "imageUrl": "https://www.kuvarancije.com/images/recepti/supe/2021/supa-od-koke-5.jpg",
-      "primaryKey": 5
+        "category": "deserts",
+        "imageUrl": "https://images.unsplash.com/photo-1520080906273-ac3114063b21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
     },
     {
-      "category": "Riba i morski plodovi",
-      "imageUrl": "https://eklinika.telegraf.rs/wp-content/uploads/2021/07/27/shutterstock_295473359.jpg",
-      "primaryKey": 6
+        "category": "meat",
+        "imageUrl": "https://images.unsplash.com/photo-1551028150-64b9f398f678?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
     },
     {
-      "category": "Italijanska",
-      "imageUrl": "https://i0.wp.com/s2.travelask.ru/system/images/files/000/146/239/wysiwyg/bruschette-hd.jpg",
-      "primaryKey": 7
+        "category": "kids",
+        "imageUrl": "https://images.unsplash.com/photo-1506224988854-3f6992c9334d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
     },
     {
-      "category": "Meksička",
-      "imageUrl": "https://www.ponudadana.hr/blogs/27/315a0b_2789fb_f8439e_mex_2___tekst_1.jpg",
-      "primaryKey": 8
-    },
-    {
-      "category": "Japanska",
-      "imageUrl": "https://www.travelmagazine.rs/wp-content/uploads/2019/11/sushi-354628_640.jpg",
-      "primaryKey": 9
-    },
-    {
-      "category": "Srpska",
-      "imageUrl": "https://stil.kurir.rs/data/images/2022/11/11/19/303487_shutterstock-2090767765_ls.jpg",
-      "primaryKey": 10
+        "category": "winter",
+        "imageUrl": "https://images.unsplash.com/photo-1422207134147-65fb81f59e38?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80"
     }
-  ]
-}
+]
